@@ -1,0 +1,1 @@
+select * from users cross join addresses;
