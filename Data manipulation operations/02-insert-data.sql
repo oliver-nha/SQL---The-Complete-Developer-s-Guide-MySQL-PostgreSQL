@@ -5,7 +5,7 @@ INSERT INTO sales (
     is_recurring
   )
 VALUES (
-  'Max Schwarz',
+  'Max Sch',
   'A Book',
   12.99,
   TRUE
